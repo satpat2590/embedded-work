@@ -37,3 +37,18 @@ energy usage than the SRAM since it relies on the strength of capacitors instead
 The speed of an SRAM is used for operations and storing certain information, while the state of the SRAM is stored within the 
 EEPROM using either a value of 0 or 1 representing either same-state or a state-shift. 
 
+
+
+
+
+
+
+
+
+## Citation 
+
+### Title: Making Embedded Systems
+### Author(s): Elecia White
+### Release date: November 2011
+### Publisher(s): O'Reilly Media, Inc.
+### ISBN: 9781449302146
